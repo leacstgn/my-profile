@@ -3,13 +3,12 @@
 body {
 	text-align: center;
 	font-family:  'PT Serif' , serif 
-	color: #7f828c; ;
 	background-color: #E2ECEF
 }
 
 h1 {
 	text-align: center;
-	color: #054b7f ;
+	color: #0B2161 ;
 	font-size: 56px;
 	font-family: 'Roboto', sans-serif;
 }
@@ -43,8 +42,13 @@ h2 {
 	font-family: 'Roboto', sans-serif;
 }
 
-
-
+img{
+	margin-left: auto;
+	margin-right: auto;
+}
+p{
+	color: #071918
+}
 
 /*Custom design with class*/ ;
 .container {
@@ -98,4 +102,4 @@ h2 {
 
 .list-inline i {
 	color: black;
-	}s
+	}
